@@ -1,2 +1,1 @@
-# Java-Hands-On-Projects
-Collections of Hands on projects
+Code Cleaning for some projects are In Progress
