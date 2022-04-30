@@ -21,4 +21,4 @@ A simple spring boot application which will help to check the speed of internet.
 
 
 ### Output:
-![](Own_Intersted_Projects/SpeedTest/output.jpg)
+https://github.com/RamK8055/Own_Intersted_Projects/blob/master/SpeedTest/output.jpg
